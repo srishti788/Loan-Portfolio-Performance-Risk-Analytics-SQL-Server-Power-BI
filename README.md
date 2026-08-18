@@ -80,6 +80,7 @@ Count
 Distinct
 CTE
 Partition
+>> 
 >>POWER BI
 Connecting to SQL Server
 Data Cleaning
