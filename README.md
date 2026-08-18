@@ -61,44 +61,44 @@ The primary objective of the Details Dashboard is to provide a comprehensive and
 
 FUNCTIONALITIES USED :
 >> SQL – MS SQL SERVER
-Creating Database
-Creating Table
-Select
-Datename
-Datepart
-Cast
-Decimal
-Month
-Hour
-Quarter
-Day
-Group by
-Order by
-Decimal
-Limit
-Count
-Distinct
-CTE
+Creating Database ,
+Creating Table,
+Select,
+Datename,
+Datepart,
+Cast,
+Decimal,
+Month,
+Hour,
+Quarter,
+Day,
+Group by,
+Order by,
+Decimal,
+Limit,
+Count,
+Distinct,
+CTE,
 Partition
 >> 
->>POWER BI
-Connecting to SQL Server
-Data Cleaning
-Data Modelling
-Data Processing
-Power Query
-Date Tables
-Time Intelligence Func
-DAX
-Date Function
-Text Function
-Filter Function
-Calculate
-SUM/ SUMX
-Creating KPI’s
-New Card Visual
-Creating Charts
-Formatting visuals
-Creating Functions
-Navigations
+>>POWER BI --
+Connecting to SQL Server,
+Data Cleaning,
+Data Modelling,
+Data Processing,
+Power Query,
+Date Tables,
+Time Intelligence Func,
+DAX,
+Date Function,
+Text Function,
+Filter Function,
+Calculate,
+SUM/ SUMX,
+Creating KPI’s,
+New Card Visual,
+Creating Charts,
+Formatting visuals,
+Creating Functions,
+Navigations,
 
